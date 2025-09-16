@@ -20,7 +20,7 @@ items:
   - device_pub_sha256: "80223685a0606823f104caee502edacd202d7e81ea6f948cd0bff8fb272baafc"
     identity: "anonymous"
     tags:
-      group: "laptops-vie"
+      group: "laptops"
   - device_pub_sha256: "7a93be12cd34ef56ab78cd90ef12ab34cd56ef78ab90cd12ef34ab56cd78ef90"
     identity: "anonymous"
     tags:
