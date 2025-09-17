@@ -105,7 +105,7 @@ selector:
 
 ## Inventory: example
 
-Your policies only will only be applied on devices with matchigs tags.
+Your policies only will only be applied on devices with matchings tags. All information about your devices is stored in the `inventory` folder in the `devices.yml` file. This file can be edited manually via the GUI, via Git, by a CI workflow (pull from IdP) or an IdP (push from IdP).
 
 ```yaml
 apiVersion: lgpo.io/v1
