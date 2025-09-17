@@ -103,7 +103,7 @@ selector:
     group: ["developers", "devops"]
 ```
 
-Inventory: Example:
+## Inventory: example
 
 Your policies only will only be applied on devices with matchigs tags.
 
